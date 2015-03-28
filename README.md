@@ -12,5 +12,5 @@ Import the `.reg` files to create new sessions using the Ezoth color scheme whic
 Screenshots
 -----------
 
-![Ezoth](https://raw.githubusercontent.com/novakin/ezoth/master/raw/putty-theme-ezoth.png)*Ezoth*
+![Ezoth](https://raw.githubusercontent.com/novakin/ezoth/master/raw/putty-theme-ezoth.png)
 
